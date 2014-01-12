@@ -1,0 +1,7 @@
+
+
+var Euler = {
+	problems: []
+};
+
+
